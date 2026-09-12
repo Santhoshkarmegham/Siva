@@ -152,5 +152,7 @@ def main() -> None:
             render(df)
 
 
-if __name__ == "__main__":
+def run() -> None:
     main()
+if __name__ == "__main__":
+    run()

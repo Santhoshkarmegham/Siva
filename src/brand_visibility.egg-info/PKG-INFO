@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: brand-visibility
+Version: 1.0.0
+Requires-Python: >=3.10
+Requires-Dist: pandas<3,>=2.1
+Requires-Dist: numpy<3,>=1.26
+Requires-Dist: streamlit<2,>=1.36
+Requires-Dist: plotly<7,>=5.22
+Requires-Dist: requests<3,>=2.31
+Requires-Dist: python-dotenv<2,>=1.0

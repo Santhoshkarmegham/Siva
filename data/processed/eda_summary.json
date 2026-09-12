@@ -1,288 +1,77 @@
 {
   "market_kpis": {
-    "total_products": 240,
-    "avg_price": 149.49624624999998,
-    "avg_rating": 4.124583333333333,
-    "total_reviews": "276061",
-    "avg_position": 31.483333333333334,
-    "avg_visibility": 6.0181249999999995,
-    "discounted_pct": 64.58333333333334,
-    "top_10_pct": 13.333333333333334
+    "total_products": 0,
+    "avg_price": "<NA>",
+    "avg_rating": "<NA>",
+    "total_reviews": "0",
+    "avg_position": "<NA>",
+    "avg_visibility": "<NA>",
+    "discounted_pct": NaN,
+    "top_10_pct": "<NA>"
   },
-  "products_per_keyword": {
-    "Laptop": 73,
-    "Running Shoes": 65,
-    "Smartphone": 60,
-    "Headphones": 42
-  },
+  "products_per_keyword": {},
   "price_distribution": {
-    "count": 240.0,
-    "mean": 149.49624624999998,
-    "std": 135.24711797709966,
-    "min": 11.9,
-    "25%": 69.415,
-    "50%": 112.475,
-    "75%": 183.8475,
-    "max": 906.73455
+    "count": 0.0,
+    "mean": null,
+    "std": null,
+    "min": null,
+    "25%": null,
+    "50%": null,
+    "75%": null,
+    "max": null
   },
-  "brand_summary": [
-    {
-      "brand": "HP",
-      "products": 30,
-      "avg_price": 192.69715166666668,
-      "avg_rating": 4.183333333333334,
-      "avg_position": 30.333333333333332,
-      "avg_visibility": 5.414666666666666,
-      "avg_discount": 7.166666666666667,
-      "top_10": 5
-    },
-    {
-      "brand": "Samsung",
-      "products": 29,
-      "avg_price": 160.10724137931032,
-      "avg_rating": 4.196551724137931,
-      "avg_position": 31.75862068965517,
-      "avg_visibility": 6.336206896551724,
-      "avg_discount": 12.41344827586207,
-      "top_10": 4
-    },
-    {
-      "brand": "Nike",
-      "products": 27,
-      "avg_price": 133.43962962962962,
-      "avg_rating": 4.0888888888888895,
-      "avg_position": 30.25925925925926,
-      "avg_visibility": 9.484444444444444,
-      "avg_discount": 9.258518518518517,
-      "top_10": 6
-    },
-    {
-      "brand": "Asus",
-      "products": 26,
-      "avg_price": 151.64402115384615,
-      "avg_rating": 3.9153846153846152,
-      "avg_position": 34.76923076923077,
-      "avg_visibility": 5.261538461538462,
-      "avg_discount": 7.499230769230769,
-      "top_10": 4
-    },
-    {
-      "brand": "Apple",
-      "products": 25,
-      "avg_price": 169.3668,
-      "avg_rating": 4.172,
-      "avg_position": 28.72,
-      "avg_visibility": 5.3688,
-      "avg_discount": 11.8004,
-      "top_10": 3
-    },
-    {
-      "brand": "Lenovo",
-      "products": 24,
-      "avg_price": 110.49541666666666,
-      "avg_rating": 4.066666666666666,
-      "avg_position": 26.5,
-      "avg_visibility": 7.469166666666666,
-      "avg_discount": 13.332916666666668,
-      "top_10": 3
-    },
-    {
-      "brand": "Puma",
-      "products": 24,
-      "avg_price": 109.50041666666668,
-      "avg_rating": 4.170833333333333,
-      "avg_position": 31.916666666666668,
-      "avg_visibility": 5.05,
-      "avg_discount": 10.208333333333334,
-      "top_10": 3
-    },
-    {
-      "brand": "Adidas",
-      "products": 22,
-      "avg_price": 126.14272727272727,
-      "avg_rating": 4.136363636363637,
-      "avg_position": 28.40909090909091,
-      "avg_visibility": 7.4804545454545455,
-      "avg_discount": 11.591363636363637,
-      "top_10": 3
-    },
-    {
-      "brand": "Dell",
-      "products": 17,
-      "avg_price": 139.9070588235294,
-      "avg_rating": 4.141176470588236,
-      "avg_position": 39.294117647058826,
-      "avg_visibility": 2.8782352941176472,
-      "avg_discount": 11.470588235294118,
-      "top_10": 0
-    },
-    {
-      "brand": "Sony",
-      "products": 16,
-      "avg_price": 202.614375,
-      "avg_rating": 4.19375,
-      "avg_position": 36.9375,
-      "avg_visibility": 3.56875,
-      "avg_discount": 11.875,
-      "top_10": 1
-    }
-  ],
-  "platform_summary": [
-    {
-      "platform": "Amazon",
-      "products": 69,
-      "avg_price": 161.21586304347827,
-      "avg_rating": 4.1405797101449275,
-      "avg_position": 29.73913043478261,
-      "avg_discount": 9.999710144927537
-    },
-    {
-      "platform": "Walmart",
-      "products": 60,
-      "avg_price": 147.66649999999998,
-      "avg_rating": 4.093333333333333,
-      "avg_position": 34.05,
-      "avg_discount": 9.666666666666666
-    },
-    {
-      "platform": "Ebay",
-      "products": 56,
-      "avg_price": 133.3932142857143,
-      "avg_rating": 4.103571428571429,
-      "avg_position": 34.625,
-      "avg_discount": 10.178392857142857
-    },
-    {
-      "platform": "Best Buy",
-      "products": 55,
-      "avg_price": 153.18535545454546,
-      "avg_rating": 4.16,
-      "avg_position": 27.672727272727272,
-      "avg_discount": 12.363454545454546
-    }
-  ],
+  "brand_summary": [],
+  "platform_summary": [],
   "correlations": {
     "price": {
-      "price": 1.0,
-      "rating": 0.123,
-      "reviews": 0.111,
-      "position": 0.075,
-      "discount_pct": 0.018,
-      "visibility_score": -0.099
+      "price": NaN,
+      "rating": NaN,
+      "reviews": NaN,
+      "position": NaN,
+      "discount_pct": NaN,
+      "visibility_score": NaN
     },
     "rating": {
-      "price": 0.123,
-      "rating": 1.0,
-      "reviews": 0.04,
-      "position": -0.057,
-      "discount_pct": 0.076,
-      "visibility_score": -0.07
+      "price": NaN,
+      "rating": NaN,
+      "reviews": NaN,
+      "position": NaN,
+      "discount_pct": NaN,
+      "visibility_score": NaN
     },
     "reviews": {
-      "price": 0.111,
-      "rating": 0.04,
-      "reviews": 1.0,
-      "position": 0.095,
-      "discount_pct": -0.057,
-      "visibility_score": -0.037
+      "price": NaN,
+      "rating": NaN,
+      "reviews": NaN,
+      "position": NaN,
+      "discount_pct": NaN,
+      "visibility_score": NaN
     },
     "position": {
-      "price": 0.075,
-      "rating": -0.057,
-      "reviews": 0.095,
-      "position": 1.0,
-      "discount_pct": -0.014,
-      "visibility_score": -0.573
+      "price": NaN,
+      "rating": NaN,
+      "reviews": NaN,
+      "position": NaN,
+      "discount_pct": NaN,
+      "visibility_score": NaN
     },
     "discount_pct": {
-      "price": 0.018,
-      "rating": 0.076,
-      "reviews": -0.057,
-      "position": -0.014,
-      "discount_pct": 1.0,
-      "visibility_score": 0.048
+      "price": NaN,
+      "rating": NaN,
+      "reviews": NaN,
+      "position": NaN,
+      "discount_pct": NaN,
+      "visibility_score": NaN
     },
     "visibility_score": {
-      "price": -0.099,
-      "rating": -0.07,
-      "reviews": -0.037,
-      "position": -0.573,
-      "discount_pct": 0.048,
-      "visibility_score": 1.0
+      "price": NaN,
+      "rating": NaN,
+      "reviews": NaN,
+      "position": NaN,
+      "discount_pct": NaN,
+      "visibility_score": NaN
     }
   },
-  "highest_price_per_keyword": [
-    {
-      "keyword": "Headphones",
-      "title": "HP Headphones Model 54",
-      "price": 406.65
-    },
-    {
-      "keyword": "Laptop",
-      "title": "HP Laptop Model 47",
-      "price": 906.73455
-    },
-    {
-      "keyword": "Running Shoes",
-      "title": "Sony Running Shoes Model 180",
-      "price": 688.04
-    },
-    {
-      "keyword": "Smartphone",
-      "title": "Asus Smartphone Model 145",
-      "price": 906.73455
-    }
-  ],
-  "top_visibility_products": [
-    {
-      "title": "Nike Headphones Model 58",
-      "brand": "Nike",
-      "visibility_score": 100.0
-    },
-    {
-      "title": "Samsung Running Shoes Model 96",
-      "brand": "Samsung",
-      "visibility_score": 50.0
-    },
-    {
-      "title": "Adidas Running Shoes Model 115",
-      "brand": "Adidas",
-      "visibility_score": 50.0
-    },
-    {
-      "title": "Lenovo Smartphone Model 206",
-      "brand": "Lenovo",
-      "visibility_score": 50.0
-    },
-    {
-      "title": "Nike Smartphone Model 157",
-      "brand": "Nike",
-      "visibility_score": 33.33
-    },
-    {
-      "title": "Adidas Laptop Model 85",
-      "brand": "Adidas",
-      "visibility_score": 25.0
-    },
-    {
-      "title": "Asus Smartphone Model 111",
-      "brand": "Asus",
-      "visibility_score": 25.0
-    },
-    {
-      "title": "HP Headphones Model 136",
-      "brand": "HP",
-      "visibility_score": 25.0
-    },
-    {
-      "title": "Lenovo Running Shoes Model 148",
-      "brand": "Lenovo",
-      "visibility_score": 25.0
-    },
-    {
-      "title": "Apple Laptop Model 192",
-      "brand": "Apple",
-      "visibility_score": 25.0
-    }
-  ]
+  "highest_price_per_keyword": [],
+  "top_visibility_products": []
 }
